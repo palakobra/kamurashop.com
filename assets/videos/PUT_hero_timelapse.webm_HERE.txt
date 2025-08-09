@@ -1,0 +1,1 @@
+Letakkan file hero_timelapse.webm di folder ini sebelum deploy.

@@ -1,0 +1,1 @@
+Place all images from image packs into this folder.
